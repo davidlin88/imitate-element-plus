@@ -1,0 +1,17 @@
+{
+  "name": "@dejavu-ui/components",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "module": "index.ts",
+  "scripts": {
+    "dev": "vite"
+  },
+  "peerDependencies": {
+    "vue": "^3.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
